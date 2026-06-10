@@ -1,0 +1,21 @@
+/* PASO 3: Estilo para todo el fondo (Cuerpo de la página)
+  Selecciona la etiqueta 'body'.
+  - Cambia el color de fondo (background-color) a un tono claro (#f0f8ff).
+  - Cambia el tipo de letra (font-family) a Arial o sans-serif.
+*/
+
+
+/* PASO 4: Estilo para el título
+  Selecciona la etiqueta 'h1'.
+  - Cambia su color a un tono oscuro (#2c3e50).
+  - Define el tamaño de la letra (font-size) en 32px.
+*/
+
+
+/* PASO 5: Estilo para el párrafo con marco y diseño
+  Selecciona la etiqueta 'p'.
+  - Cambia el color del texto a #34495e y su tamaño a 18px.
+  - Ponle un fondo blanco (background-color: white).
+  - Agrega un borde sólido de 2px de grosor y color azul (#3498db).
+  - Redondea las esquinas usando border-radius en 10px.
+*/

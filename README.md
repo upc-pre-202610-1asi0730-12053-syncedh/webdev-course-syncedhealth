@@ -38,12 +38,12 @@
 #### Video 5: Introducción a CSS (6 min)
 * **Descripción**: ¿Qué es CSS, para qué sirve y cómo se conecta con tu archivo HTML? [cite_start]Introducción al uso básico de selectores para cambiar por primera vez la apariencia de un elemento.
 * [cite_start]**Enlace al video**: [Ver Video 5 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video5) 
-* [cite_start]**Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) [cite: 24]
+* [cite_start]**Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/xbgVQJZ) [cite: 24]
 
 #### Video 6: Colores, fuentes y bordes (6 min)
 * **Descripción**: Aplicación práctica de propiedades estéticas esenciales en CSS. [cite_start]Aprenderás a usar de forma interactiva `color`, `background-color`, `font-family`, `font-size`, `border` y el efecto redondeado con `border-radius`.
 * [cite_start]**Enlace al video**: [Ver Video 6 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video6) 
-* [cite_start]**Editor en línea**: [Comenzar en JSFiddle](https://jsfiddle.net/) 
+* [cite_start]**Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/zxNqbyG) 
 
 #### Video 7: Organización visual y centrado de contenido (6 min)
 * [cite_start]**Descripción**: Uso de propiedades simples y esenciales para ordenar y estructurar elementos en pantalla: `text-align`, `margin`, `padding`, `width` y contenedores básicos.

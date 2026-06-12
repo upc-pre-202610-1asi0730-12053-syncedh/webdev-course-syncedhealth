@@ -37,7 +37,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 ### Bloque 2: Estilo y Diseño con CSS
 #### Video 5: Introducción a CSS (6 min)
 * **Descripción**: ¿Qué es CSS, para qué sirve y cómo se conecta con tu archivo HTML? Introducción al uso básico de selectores para cambiar por primera vez la apariencia de un elemento.
-* **Enlace al video**: [Ver Video 5 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video5) 
+* **Enlace al video**: [Ver Video 5](https://youtu.be/w2O2UMtwA8I) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/xbgVQJZ) 
 
 #### Video 6: Colores, fuentes y bordes (6 min)

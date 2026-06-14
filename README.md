@@ -42,7 +42,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 
 #### Video 6: Colores, fuentes y bordes (6 min)
 * **Descripción**: Aplicación práctica de propiedades estéticas esenciales en CSS. Aprenderás a usar de forma interactiva `color`, `background-color`, `font-family`, `font-size`, `border` y el efecto redondeado con `border-radius`.
-* **Enlace al video**: [Ver Video 6 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video6) 
+* **Enlace al video**: [Ver Video 6](https://youtu.be/qGQd3YCBhDA) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/zxNqbyG) 
 
 #### Video 7: Organización visual y centrado de contenido (6 min)

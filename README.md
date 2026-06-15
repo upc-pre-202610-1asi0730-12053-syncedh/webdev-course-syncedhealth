@@ -45,13 +45,13 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 * **Enlace al video**: [Ver Video 6](https://youtu.be/qGQd3YCBhDA) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/zxNqbyG) 
 
-#### Video 7: Organización visual y centrado de contenido (6 min)
+#### Video 7: Organización visual y centrado de contenido (7 min)
 * **Descripción**: Uso de propiedades simples y esenciales para ordenar y estructurar elementos en pantalla: `text-align`, `margin`, `padding`, `width` y contenedores básicos.
 * **Enlace al video**: [Ver Video 7](https://www.youtube.com/watch?v=prB7y4BC16I) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/Msa-ware/pen/dPNOYdb) 
 
 ### Bloque 3: Proyecto Práctico y Cierre
-#### Video 8: Creación de una página de perfil (8 min)
+#### Video 8: Creación de una página de perfil (7 min)
 * **Descripción**: Construcción guiada desde cero de una página web personal. Integraremos de manera estructurada títulos, textos, listas, imágenes y estilos CSS aprendidos en las lecciones previas.
 * **Enlace al video**: [Ver Video 8](https://www.youtube.com/watch?v=jjGpLQPzXTc) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/Msa-ware/pen/JoEbGrX) 

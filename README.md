@@ -21,7 +21,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 
 #### Video 2: Estructura HTML básica (6 min)
 * **Descripción**: Creación de tu primera página web utilizando la estructura esencial: `<html>`, `<head>`, `<title>` y `<body>`. Aprenderás la diferencia entre etiquetas, elementos y atributos.
-* **Enlace al video**: [Ver Video 2 (Unlisted)](https://youtu.be/I7pjQ1_6kq8) 
+* **Enlace al video**: [Ver Video 2](https://youtu.be/I7pjQ1_6kq8) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
 
 #### Video 3: Elementos HTML comunes (5 min)

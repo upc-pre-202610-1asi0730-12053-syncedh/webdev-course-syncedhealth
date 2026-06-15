@@ -16,12 +16,12 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 ### Bloque 1: Fundamentos de HTML
 #### Video 1: Introducción al desarrollo web (5 min)
 * **Descripción**: Explicación visual de qué es un sitio web, qué partes lo componen y por qué HTML y CSS son la base de internet.
-* **Enlace al video**: [Ver Video 1 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video1) 
+* **Enlace al video**: [Ver Video 1](https://youtu.be/6KUc4aOBDkc) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
 
 #### Video 2: Estructura HTML básica (6 min)
 * **Descripción**: Creación de tu primera página web utilizando la estructura esencial: `<html>`, `<head>`, `<title>` y `<body>`. Aprenderás la diferencia entre etiquetas, elementos y atributos.
-* **Enlace al video**: [Ver Video 2 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video2) 
+* **Enlace al video**: [Ver Video 2 (Unlisted)](https://youtu.be/I7pjQ1_6kq8) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
 
 #### Video 3: Elementos HTML comunes (5 min)

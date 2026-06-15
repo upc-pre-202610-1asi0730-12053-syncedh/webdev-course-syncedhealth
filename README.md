@@ -53,7 +53,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 ### Bloque 3: Proyecto Práctico y Cierre
 #### Video 8: Creación de una página de perfil (8 min)
 * **Descripción**: Construcción guiada desde cero de una página web personal. Integraremos de manera estructurada títulos, textos, listas, imágenes y estilos CSS aprendidos en las lecciones previas.
-* **Enlace al video**: [Ver Video 8]() 
+* **Enlace al video**: [Ver Video 8](https://www.youtube.com/watch?v=jjGpLQPzXTc) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/Msa-ware/pen/JoEbGrX) 
 
 #### Video 9: Mejoras visuales y errores comunes (7 min)

@@ -48,7 +48,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 #### Video 7: Organización visual y centrado de contenido (6 min)
 * **Descripción**: Uso de propiedades simples y esenciales para ordenar y estructurar elementos en pantalla: `text-align`, `margin`, `padding`, `width` y contenedores básicos.
 * **Enlace al video**: [Ver Video 7 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video7) 
-* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
+* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/Msa-ware/pen/dPNOYdb) 
 
 ### Bloque 3: Proyecto Práctico y Cierre
 #### Video 8: Creación de una página de perfil (8 min)

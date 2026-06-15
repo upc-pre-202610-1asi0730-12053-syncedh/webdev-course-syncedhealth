@@ -61,11 +61,6 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 * **Enlace al video**: [Ver Video 9 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video9) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
 
-#### Video 10: Proyecto final y próximos pasos (10 min)
-* **Descripción**: Cierre oficial del curso revisando el proyecto final terminado (perfil personal o entrada de blog). Consejos y plataformas recomendadas para continuar tu camino en el desarrollo web.
-* **Enlace al video**: [Ver Video 10 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video10) 
-* **Editor en línea / Hosting**: [Ver Proyecto en Replit](https://replit.com/) 
-
 ---
 
 ## 🛠️ Matriz de Actividades Prácticas

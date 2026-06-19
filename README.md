@@ -27,12 +27,12 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 
 #### Video 3: Elementos HTML comunes (5 minutos y 41 segundos)
 * **Descripción**: Uso práctico de encabezados (`<h1>` a `<h6>`), párrafos (`<p>`) y listas (`<ul>`, `<ol>`, `<li>`) para organizar la información de forma clara.
-* **Enlace al video**: [Ver Video 3 (Unlisted)](https://youtu.be/pVBBBInrdG0) 
+* **Enlace al video**: [Ver Video 3](https://youtu.be/pVBBBInrdG0) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
 
 #### Video 4: Imágenes y enlaces en HTML (7 minutos y 16 segundos)
 * **Descripción**: Aprende a insertar imágenes (`<img>`) y enlaces (`<a>`). Explicación paso a paso de los atributos esenciales como `src`, `alt` y `href`.
-* **Enlace al video**: [Ver Video 4 (Unlisted)](https://youtu.be/vLwK8E8MFW4) 
+* **Enlace al video**: [Ver Video 4](https://youtu.be/vLwK8E8MFW4) 
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/) 
 
 ### Bloque 2: Estilo y Diseño con CSS

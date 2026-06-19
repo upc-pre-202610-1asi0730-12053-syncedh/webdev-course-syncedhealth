@@ -73,7 +73,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 | 3 | Maquetación con textos y listas | CodePen | [Abrir Editor](https://codepen.io/pen/) |
 | 4 | Construyendo hipervínculos y galería | CodePen | [Abrir Editor](https://codepen.io/pen/) |
 | 5 | Mi primer selector CSS | CodePen | [Abrir Editor](https://codepen.io/pen/) |
-| 6 | Aplicando colores, fuentes y bordes | JSFiddle | [Abrir Editor](https://jsfiddle.net/) |
+| 6 | Aplicando colores, fuentes y bordes | CodePen | [Abrir Editor](https://codepen.io/pen/) |
 | 7 | Alineación y espaciados (Box Model) | CodePen | [Abrir Editor](https://codepen.io/pen/) |
 | 8 | Taller Guiado: Página de Perfil | CodePen | [Abrir Editor](https://codepen.io/pen/) |
 | 9 | Laboratorio de Depuración de Errores | CodePen | [Abrir Editor](https://codepen.io/pen/) |

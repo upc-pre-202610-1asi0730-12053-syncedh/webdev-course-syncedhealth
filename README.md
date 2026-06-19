@@ -89,4 +89,19 @@ El curso fue desarrollado de forma equitativa y colaborativa mediante la distrib
 * **Módulo de Integración y Cierre (Videos 8, 9 y 10)**: Desarrollo del proyecto integrador, análisis pedagógico de errores sintácticos comunes y documentación del entorno final.
 
 ---
-*Nota institucional interna: Los datos de los integrantes, NRC y universidad se adjuntan exclusivamente en los entregables impresos/PDF del Informe de Proyecto y Reporte de Participación para mantener el estricto anonimato del código fuente y del contenido de los videos frente al público escolar.*
+
+## 👥 Elaboración
+Universidad Peruana de Ciencias Aplicadas
+Carrera de Ingeniería de Software
+Período 202610
+1ASI0730 Aplicaciones Web
+NRC 12053
+**Nombre del equipo**: SyncedHealth
+**Líder del equipo**: Marcelo Fausto Pareja Calloapaza
+**Integrantes del equipo**:
+Marcelo Fausto Pareja Calloapaza
+Johan Yonel León Morales
+Guiou Justinn Mauricio Silva
+Jairo Mathias Santiago Atanacio
+Sebastián Agusto Gutierrez Santillán
+**Fecha de entrega**: 21 de junio de 2026

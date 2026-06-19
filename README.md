@@ -7,7 +7,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 * **Público objetivo**: Estudiantes de 12 a 17 años.
 * **Prerrequisitos**: Ninguno.
 * **Herramientas necesarias**: ¡100% en línea y gratuito! Solo necesitas un navegador web (Chrome, Firefox, Safari o Edge). No se requiere instalar ningún programa.
-* **📂 Repositorio de código fuente**: [webdev-course-teamname](https://github.com/yourusername/webdev-course-teamname)
+* **📂 Repositorio de código fuente**: [webdev-course-syncedhealth](https://github.com/upc-pre-202610-1asi0730-12053-syncedh/webdev-course-syncedhealth)
 * **💽 Playlist**: [youtube-playlist](https://www.youtube.com/playlist?list=PLyPHIANkpzo-zEYArpg0q37LUVBs2uSbn)
 
 ---

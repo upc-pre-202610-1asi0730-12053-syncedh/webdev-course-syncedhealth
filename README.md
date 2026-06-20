@@ -25,7 +25,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
   + **Visualiza el resultado**: Piensa en HTML como el esqueleto de un edificio (las paredes y columnas) y en CSS como la pintura, ventanas y decoración. Ambos se necesitan para crear algo genial.
   + **Explora internet**: Puedes hacer clic derecho en cualquier parte de tus páginas web favoritas y seleccionar "Inspeccionar" para ver el código HTML real que las compone. ¡No tengas miedo de curiosear!
   + **No intentes memorizar**: El objetivo de este primer video es entender cómo funciona el navegador, no aprender comandos de memoria.
-* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/)
+* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/jEyBZpj)
 
 
 #### Video 2: Estructura HTML básica (7 minutos y 31 segundos)
@@ -36,7 +36,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
   + **La regla de los dos ojos**: Casi todas las etiquetas en HTML se abren (`<body>`) y se deben cerrar (`</body>`). Si olvidas cerrar una etiqueta, tu página podría comportarse de forma muy extraña.
   + **La diferencia invisible**: Recuerda que todo lo que pones dentro de `<head>` son configuraciones ocultas para el navegador, mientras que todo lo que pones dentro de `<body>` es lo que tus usuarios verán en pantalla.
   + **Mantén el orden**: Usa la tecla Tabulador para dar espacio hacia la derecha (identación) a las etiquetas que están dentro de otras. Así tu código será mucho más limpio y fácil de leer.
-* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/)
+* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/GgrWQYB)
 
 
 #### Video 3: Elementos HTML comunes (5 minutos y 41 segundos)
@@ -47,7 +47,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
   + **Jerarquía de títulos**: Usa solo un `<h1>` por página para el título principal (como el título de un libro). Para los subtítulos, ve bajando de nivel con `<h2>`, `<h3>`, etc.
   + **Truco para recordar las listas**: `<ul>` significa lista desordenada (usa viñetas o puntos) y `<ol>` significa lista ordenada (usa números). No importa cuál uses, cada elemento interno siempre debe llevar la etiqueta `<li>`.
   + **Experimenta en vivo**: Cambia los textos en CodePen y observa cómo el simulador actualiza tu página al instante.
-* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/)
+* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/vEgxdvR)
 
 
 #### Video 4: Imágenes y enlaces en HTML (7 minutos y 16 segundos)
@@ -58,7 +58,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
   + **Etiquetas rebeldes**: La etiqueta `<img>` es especial porque no necesita una etiqueta de cierre por separado. ¡Se cierra sola!
   + **Sé descriptivo con el texto alternativo**: Nunca olvides rellenar el atributo `alt="..."` en tus imágenes. Esto ayuda a las personas con discapacidad visual a entender qué hay en la foto y además se muestra si el internet está lento y la imagen no carga.
   + **Navegación fluida**: Si quieres que un enlace a otra página web se abra en una pestaña nueva para que no cierren tu sitio, añade el atributo `target="_blank"` dentro de tu etiqueta `<a>`.
-* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/pen/)
+* **Editor en línea**: [Comenzar en CodePen](https://codepen.io/marc3lllob7/pen/jEyBZXg)
 
 
 ### Bloque 2: Estilo y Diseño con CSS

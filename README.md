@@ -187,6 +187,4 @@ Guiou Justinn Mauricio Silva
 
 Jairo Mathias Santiago Atanacio
 
-Sebastián Agusto Gutierrez Santillán
-
 **Fecha de entrega**: 21 de junio de 2026

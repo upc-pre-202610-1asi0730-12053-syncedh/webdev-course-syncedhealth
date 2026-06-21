@@ -130,6 +130,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
   + **¿Qué sigue?**: Si te gustó crear la estructura y los diseños, investiga sobre "Diseño Responsivo" (para que tus webs se adapten perfectamente a teléfonos móviles) o dale una mirada a JavaScript para añadir botones con funciones interactivas reales.
 * **Editor en línea / Hosting**: [Ver Proyecto en Replit](https://game-hub--marsredflag.replit.app/)
 * **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/3vyu7xCP2eMrNHm1A)
+* **Editor en línea**: [Ver Proyecto en CodePen](https://codepen.io/marc3lllob7/pen/bNgqxeg)
 
 
 ---

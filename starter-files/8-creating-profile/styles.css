@@ -1,0 +1,32 @@
+/* Configuración inicial para el centrado automático en pantalla */
+body {
+  background-color: #1a1a24;
+  font-family: sans-serif;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* ======================================================= */
+/* ¡A ESCRIBIR TU PROPIO DISEÑO DESDE CERO!                */
+/* ======================================================= */
+
+/* PASO 2: Diseña la tarjeta principal <main>
+   Ponle un fondo #252532, ancho de 320px, padding de 30px, 
+   un borde de tu color favorito y alinea todo el texto al centro (text-align: center).
+*/
+
+
+/* PASO 3: Controla la imagen <img>
+   Dale un ancho (width) y alto (height) de 100px. 
+   ¡Usa border-radius: 50% para hacerla un círculo perfecto!
+*/
+
+
+/* PASO 4: Estiliza la lista <ul> y los elementos <li>
+   Usa list-style: none para quitar los puntos negros de la lista.
+   A los <li> ponles un fondo oscuro, márgenes para separarlos y padding para que parezcan botones.
+*/

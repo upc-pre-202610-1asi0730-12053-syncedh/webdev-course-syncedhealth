@@ -1,0 +1,28 @@
+/* Código base de la lección anterior */
+body {
+  background-color: #1a1a24; /* Le ponemos un fondo oscuro estilo juego para empezar */
+  font-family: sans-serif;
+  color: #ffffff;
+}
+
+h1 { color: #ff4a5a; } /* Cambiamos a un color más gamer */
+p { color: #a0a0b0; }
+
+/* ======================================================= */
+/* ¡TU TURNO! AGREGA EL CÓDIGO A PARTIR DE AQUÍ:          */
+/* ======================================================= */
+
+/* PASO 2: Dale estilo a la caja contenedora <main> 
+   Dale un color de fondo (background-color) #252532 y un ancho (width) de 350px.
+*/
+
+
+/* PASO 3: Agrega el espacio interno (padding) de 25px 
+   y un borde (border) de 3px solid #4a90e2 para ver las paredes de la caja.
+*/
+
+
+/* PASO 4: ¡El truco de magia! Ve al selector "body" arriba, 
+   y añade display: flex, justify-content: center, align-items: center 
+   y min-height: 100vh para centrar la caja en toda la pantalla.
+*/

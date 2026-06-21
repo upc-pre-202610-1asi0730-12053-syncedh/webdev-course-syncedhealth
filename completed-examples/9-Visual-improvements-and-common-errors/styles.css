@@ -1,0 +1,28 @@
+body{
+  background-color: #1a1a24;
+  font-family: sans-serif;
+  color: darkgreen;
+}
+
+main{
+  /* ERROR 3: Propiedad mal escrita ("backgroud" en vez de "background") */
+  backgroud-color: lightblue;
+  width: 320px;
+  padding:30px;
+  border: 4px solid #4a90e2;
+  border-radius: 20px;
+  text-align:center;
+  margin: 40px auto;
+}
+
+img{
+  width: 120px;
+  height: 120px;
+  /* ERROR 4: Olvidar el punto y coma (;) al final de la línea */
+  border-radius: 50%
+  border: 3px solid darkgreen;
+}
+
+/* ERROR 5: Desorden total y malas prácticas (Escribir todo amontonado) */
+ul{list-style:none;padding:0;}
+li{background-color:yellow;margin:10px 0;padding:8px;border-radius:8px;}

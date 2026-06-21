@@ -112,7 +112,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 #### Video 9: Mejoras visuales y errores comunes (7 min)
 
 * **Descripción**: Revisión de buenas prácticas en desarrollo web: orden del código, nombres correctos y cómo solucionar los errores más frecuentes (olvidar cerrar etiquetas o escribir mal las propiedades CSS).
-* **Enlace al video**: [Ver Video 9](https://www.youtube.com/watch?v=5aTUNvXtvO8)
+* **Enlace al video**: [Ver Video 9](https://www.youtube.com/watch?v=sUCbpXBsUQA)
 * **Consejos clave**:
   + **El súper truco del color rojo**: Si una caja o texto no se acomoda donde quieres y no sabes por qué, ponle temporalmente un estilo de `background-color: red;`. Esto te mostrará el tamaño exacto y los bordes invisibles que está ocupando ese elemento en la pantalla.
   + **Cuidado con los errores de dedo**: La mayoría de las veces que el código no funciona es porque escribimos algo mal (como poner `colro` en vez de `color` o olvidar una llave `{`). Revisa con calma línea por línea.

@@ -4,7 +4,7 @@
 
 Este curso introductorio de aproximadamente 1 hora está diseñado especialmente para estudiantes de secundaria de 12 a 17 años sin experiencia previa en programación. El enfoque principal es enseñar los fundamentos de HTML y CSS de manera clara, visual, progresiva y accesible.
 
-* **Duración total**: 58 minutos y 57 segundos
+* **Duración total**: 1 hora, 3 minutos y 16 segundos
 * **Público objetivo**: Estudiantes de 12 a 17 años.
 * **Prerrequisitos**: Ninguno.
 * **Herramientas necesarias**: ¡100% en línea y gratuito! Solo necesitas un navegador web (Chrome, Firefox, Safari o Edge). No se requiere instalar ningún programa.
@@ -120,16 +120,16 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/Msa-ware/pen/QwdpBZK)
 
 
-#### Video 10: Proyecto final y próximos pasos (10 min)
+#### Video 10: Proyecto final y próximos pasos (4 minutos y 19 segundos)
 
 * **Descripción**: Cierre oficial del curso revisando el proyecto final terminado (perfil personal o entrada de blog). Consejos y plataformas recomendadas para continuar tu camino en el desarrollo web.
-* **Enlace al video**: [Ver Video 10 (Unlisted)](https://www.youtube.com/watch?v=ejemplo-video10)
+* **Enlace al video**: [Ver Video 10](https://youtu.be/65-hUUZhsh4)
 * **Consejos clave**:
   + **Muestra tu trabajo**: Al pasar tu proyecto a Replit, obtendrás un enlace web real. ¡Compártelo con tus amigos, profesores o familia por WhatsApp para que vean lo que construiste desde cero!
   + **La práctica hace al maestro**: Diseñar webs es una habilidad práctica. Intenta cambiarle los colores a tu proyecto cada cierto tiempo o intenta recrear de forma sencilla una sección de una página web que uses a diario.
   + **¿Qué sigue?**: Si te gustó crear la estructura y los diseños, investiga sobre "Diseño Responsivo" (para que tus webs se adapten perfectamente a teléfonos móviles) o dale una mirada a JavaScript para añadir botones con funciones interactivas reales.
 * **Editor en línea / Hosting**: [Ver Proyecto en Replit](https://game-hub--marsredflag.replit.app/)
-* **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+* **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/3vyu7xCP2eMrNHm1A)
 
 
 ---

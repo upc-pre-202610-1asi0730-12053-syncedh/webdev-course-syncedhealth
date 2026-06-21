@@ -128,7 +128,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
   + **Muestra tu trabajo**: Al pasar tu proyecto a Replit, obtendrás un enlace web real. ¡Compártelo con tus amigos, profesores o familia por WhatsApp para que vean lo que construiste desde cero!
   + **La práctica hace al maestro**: Diseñar webs es una habilidad práctica. Intenta cambiarle los colores a tu proyecto cada cierto tiempo o intenta recrear de forma sencilla una sección de una página web que uses a diario.
   + **¿Qué sigue?**: Si te gustó crear la estructura y los diseños, investiga sobre "Diseño Responsivo" (para que tus webs se adapten perfectamente a teléfonos móviles) o dale una mirada a JavaScript para añadir botones con funciones interactivas reales.
-* **Editor en línea / Hosting**: [Ver Proyecto en Replit](https://replit.com/)
+* **Editor en línea / Hosting**: [Ver Proyecto en Replit](https://game-hub--marsredflag.replit.app/)
 * **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 
 

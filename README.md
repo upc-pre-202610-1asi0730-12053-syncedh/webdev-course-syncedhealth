@@ -4,7 +4,7 @@
 
 Este curso introductorio de aproximadamente 1 hora está diseñado especialmente para estudiantes de secundaria de 12 a 17 años sin experiencia previa en programación. El enfoque principal es enseñar los fundamentos de HTML y CSS de manera clara, visual, progresiva y accesible.
 
-* **Duración total**: 39 minutos y 25 segundos
+* **Duración total**: 58 minutos y 57 segundos
 * **Público objetivo**: Estudiantes de 12 a 17 años.
 * **Prerrequisitos**: Ninguno.
 * **Herramientas necesarias**: ¡100% en línea y gratuito! Solo necesitas un navegador web (Chrome, Firefox, Safari o Edge). No se requiere instalar ningún programa.
@@ -109,7 +109,7 @@ Este curso introductorio de aproximadamente 1 hora está diseñado especialmente
 * **Editor en línea**: [Comenzar en CodePen](https://codepen.io/Msa-ware/pen/JoEbGrX)
 
 
-#### Video 9: Mejoras visuales y errores comunes (7 min)
+#### Video 9: Mejoras visuales y errores comunes (6 minutos y 21 segundos)
 
 * **Descripción**: Revisión de buenas prácticas en desarrollo web: orden del código, nombres correctos y cómo solucionar los errores más frecuentes (olvidar cerrar etiquetas o escribir mal las propiedades CSS).
 * **Enlace al video**: [Ver Video 9](https://www.youtube.com/watch?v=sUCbpXBsUQA)
